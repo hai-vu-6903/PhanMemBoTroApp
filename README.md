@@ -36,7 +36,7 @@ Phần mềm giúp bộ đội **dễ dàng tiếp cận các nội dung học t
 
 Tải phiên bản mới nhất của phần mềm tại đây:
 
-**[Download Latest Version](https://github.com/USERNAME/REPOSITORY/releases/latest)**
+**[Download Latest Version](https://github.com/hai-vu-6903/PhanMemBoTroApp/releases/tag/v1.0)**
 
 *(File `.exe` có thể chạy trực tiếp trên Windows)*
 
