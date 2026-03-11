@@ -1,0 +1,65 @@
+﻿<ui:FluentWindow x:Class="phanMemBoTroVersion2.MainWindow"
+                 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                 xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                 xmlns:local="clr-namespace:phanMemBoTroVersion2"
+                 mc:Ignorable="d"
+                 xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+                 WindowState="Maximized">
+    
+    <ui:FluentWindow.Resources>
+        <Storyboard x:Key="RotateStoryboard">
+            <DoubleAnimation Storyboard.TargetName="rotateTransform"
+                             Storyboard.TargetProperty="Angle"
+                             From="0" To="360"
+                             Duration="0:0:40"
+                             RepeatBehavior="Forever"/>
+        </Storyboard>
+    </ui:FluentWindow.Resources>
+
+    <Grid Background="#005037">
+
+        <!-- Background xoay -->
+        <Image Source="/Images/layer1.png"
+               Stretch="Uniform"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               RenderTransformOrigin="0.5,0.5"
+               Panel.ZIndex="0">
+
+            <Image.RenderTransform>
+                <RotateTransform x:Name="rotateTransform"/>
+            </Image.RenderTransform>
+
+            <Image.Triggers>
+                <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                    <BeginStoryboard Storyboard="{StaticResource RotateStoryboard}"/>
+                </EventTrigger>
+            </Image.Triggers>
+        </Image>
+
+        <!-- UI phía trên -->
+        <Grid x:Name="RootGrid" Panel.ZIndex="1">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- TitleBar -->
+            <ui:TitleBar Title="Phần mềm bổ trợ HSQ - BS"
+                         Height="30"
+                         Background="White"
+                         Icon="Images/Phanmembotro.ico"/>
+
+            <!-- vùng hiển thị UserControl -->
+            <ContentControl x:Name="MainContent"
+                    Grid.Row="1"
+                    HorizontalContentAlignment="Stretch"
+                    VerticalContentAlignment="Stretch"/>
+
+        </Grid>
+
+    </Grid>
+</ui:FluentWindow>

@@ -1,0 +1,274 @@
+﻿<UserControl x:Class="phanMemBoTroVersion2.TracNghiem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+             Focusable="True">
+
+    <Grid Background="#FFFFFBEA">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition x:Name="ContentColumn" Width="*"/>
+            <ColumnDefinition x:Name="ResultColumn"
+                      Width="0"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- SIDEBAR -->
+
+        <DockPanel Grid.Column="0">
+
+            <StackPanel>
+
+                <Grid Margin="20,10">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <ui:Button Width="40"
+                               Height="40"
+                               Appearance="Success"
+                               Click="BtnBack_Click">
+
+                        <ui:Button.Icon>
+                            <ui:SymbolIcon Symbol="ArrowCircleLeft24"/>
+                        </ui:Button.Icon>
+
+                    </ui:Button>
+
+                    <TextBlock Grid.Column="1"
+                               Text="Câu Hỏi Trắc Nghiệm"
+                               Margin="12,0"
+                               FontSize="20"
+                               FontWeight="Bold"
+                               Foreground="#6B8E23"
+                               VerticalAlignment="Center"/>
+
+                </Grid>
+
+                <Border Height="1" Margin="12,8" Background="#2a5534"/>
+
+                <ListBox x:Name="SidebarMenu"
+                         DisplayMemberPath="title"
+                         SelectionChanged="SidebarMenu_SelectionChanged"/>
+
+            </StackPanel>
+
+        </DockPanel>
+
+
+        <!-- CONTENT -->
+        <Grid Grid.Column="1" Margin="30">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Progress -->
+
+            <StackPanel Orientation="Horizontal">
+
+                <TextBlock x:Name="TxtProgress"
+                           FontWeight="Bold"
+                           Foreground="#2a5534"/>
+
+                <ProgressBar x:Name="QuizProgress"
+                             Width="250"
+                             Height="12"
+                             Margin="20,0"/>
+                <TextBlock x:Name="TxtPercent"
+                           FontWeight="Bold"
+                           FontSize="16"
+                           Foreground="#1E90FF"/>
+
+
+                <Border Background="#E5E5E5"
+            Height="12"
+            CornerRadius="6"
+            Margin="0,5,0,0">
+
+                    <Grid>
+
+                        <Border x:Name="ProgressFill"
+                    Background="#6B8E23"
+                    CornerRadius="6"
+                    Width="0"/>
+
+                    </Grid>
+
+                </Border>
+            </StackPanel>
+
+
+            <!-- Question -->
+
+            <Border Grid.Row="1"
+                    Background="White"
+                    CornerRadius="12"
+                    Padding="20"
+                    Margin="0,15"
+                    BorderBrush="#D6E4C5"
+                    BorderThickness="1">
+
+                <TextBlock x:Name="TxtQuestion"
+                           FontSize="30"
+                           FontWeight="Bold"
+                           TextWrapping="Wrap"/>
+
+            </Border>
+
+
+            <!-- ANSWERS ngang 2x2 -->
+
+            <UniformGrid Grid.Row="2"
+                         Rows="2"
+                         Columns="2"
+                         Margin="0,10">
+
+                <Button x:Name="BtnA"
+                        Tag="0"
+                        Click="Answer_Click"
+                        Height="70"
+                        FontSize="20"
+                        Margin="10"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Stretch"/>
+
+                <Button x:Name="BtnB"
+                        Tag="1"
+                        Click="Answer_Click"
+                        Height="70"
+                        FontSize="20"
+                        Margin="10"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Stretch"/>
+
+                <Button x:Name="BtnC"
+                        Tag="2"
+                        Click="Answer_Click"
+                        Height="70"
+                        FontSize="20"
+                        Margin="10"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Stretch"/>
+
+                <Button x:Name="BtnD"
+                        Tag="3"
+                        Click="Answer_Click"
+                        Height="70"
+                        FontSize="20"
+                        Margin="10"
+                        HorizontalAlignment="Stretch"
+                        VerticalAlignment="Stretch"/>
+
+            </UniformGrid>
+
+
+            <!-- NEXT -->
+
+            <Grid Grid.Row="3" Margin="0,10">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- PREVIOUS -->
+                <ui:Button Grid.Column="0"
+                           x:Name="BtnPrev"
+                           Width="120"
+                           Margin="0,0,10,0"
+                           Appearance="Secondary"
+                           Click="BtnPrev_Click">
+
+                    ← Trước
+
+                </ui:Button>
+
+                <!-- NEXT -->
+                <ui:Button Grid.Column="2"
+                           x:Name="BtnNext"
+                           Width="120"
+                           Margin="10,0"
+                           Appearance="Primary"
+                           Click="BtnNext_Click">
+
+                    Tiếp →
+
+                </ui:Button>
+
+                <!-- LÀM LẠI -->
+                <ui:Button Grid.Column="3"
+                           x:Name="BtnRestart"
+                           Width="120"
+                           Appearance="Danger"
+                           Click="BtnRestart_Click">
+
+                    Làm lại
+
+                </ui:Button>
+                
+            </Grid>
+
+
+            <!-- DANH SÁCH CÂU ĐÃ CHỌN -->
+
+            <ScrollViewer Grid.Row="4"
+                  Margin="0,20,0,0"
+                  HorizontalScrollBarVisibility="Auto"
+                  VerticalScrollBarVisibility="Disabled">
+
+                <UniformGrid x:Name="QuestionNavigator"
+                             Columns="10"
+                             Margin="0,20,0,0"/>
+
+            </ScrollViewer>
+
+            <!-- RESULT -->
+
+            <Border Grid.Row="5"
+                    x:Name="ResultPanel"
+                    Background="#F8F8F8"
+                    Padding="20"
+                    CornerRadius="10"
+                    Visibility="Collapsed"
+                    Margin="0,20,0,0">
+
+                <StackPanel>
+
+                    <TextBlock Text="🎯 Kết quả"
+                               FontSize="28"
+                               FontWeight="Bold"
+                               Margin="0,0,0,10"/>
+
+                    <TextBlock x:Name="TxtScore"
+                               FontSize="22"
+                               FontWeight="Bold"
+                               Margin="0,10"/>
+
+                    <ui:Button Width="150"
+                               Height="40"
+                               Appearance="Success"
+                               Click="BtnFinish_Click">
+                        Hoàn thành
+                    </ui:Button>
+
+                    
+
+                </StackPanel>
+
+            </Border>
+
+        </Grid>
+
+        
+    </Grid>
+</UserControl>

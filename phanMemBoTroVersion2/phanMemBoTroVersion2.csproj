@@ -1,0 +1,342 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Phanmembotro.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="baiHatQuyDinh\bac_dang_cung_chung_chau_hanh_quan.lrc" />
+    <None Remove="baiHatQuyDinh\bac_dang_cung_chung_chau_hanh_quan.mp3" />
+    <None Remove="baiHatQuyDinh\bac_dang_cung_chung_chau_hanh_quan.pdf" />
+    <None Remove="baiHatQuyDinh\ca_ngoi_ho_chu_tich.lrc" />
+    <None Remove="baiHatQuyDinh\ca_ngoi_ho_chu_tich.mp3" />
+    <None Remove="baiHatQuyDinh\chao_mung_dang_cong_san_viet_nam.lrc" />
+    <None Remove="baiHatQuyDinh\chao_mung_dang_cong_san_viet_nam.mp3" />
+    <None Remove="baiHatQuyDinh\cuoc_doi_van_dep_sao.lrc" />
+    <None Remove="baiHatQuyDinh\cuoc_doi_van_dep_sao.mp3" />
+    <None Remove="baiHatQuyDinh\diep_minh_tuyen.jpg" />
+    <None Remove="baiHatQuyDinh\doan_nho.jpg" />
+    <None Remove="baiHatQuyDinh\doan_quang_khai.jpg" />
+    <None Remove="baiHatQuyDinh\do_minh.jpg" />
+    <None Remove="baiHatQuyDinh\do_nhuan.jpg" />
+    <None Remove="baiHatQuyDinh\eugene_pottier.jpg" />
+    <None Remove="baiHatQuyDinh\giai_phong_dien_bien.lrc" />
+    <None Remove="baiHatQuyDinh\giai_phong_dien_bien.mp3" />
+    <None Remove="baiHatQuyDinh\hat_mai_khuc_quan_hanh.lrc" />
+    <None Remove="baiHatQuyDinh\hat_mai_khuc_quan_hanh.mp3" />
+    <None Remove="baiHatQuyDinh\hoang_hoa.jpg" />
+    <None Remove="baiHatQuyDinh\huy_thuc.jpg" />
+    <None Remove="baiHatQuyDinh\luu_ha_an.jpg" />
+    <None Remove="baiHatQuyDinh\luu_huu_phuoc.jpg" />
+    <None Remove="baiHatQuyDinh\nhu_co_bac_trong_ngay_dai_thang.lrc" />
+    <None Remove="baiHatQuyDinh\nhu_co_bac_trong_ngay_dai_thang.mp3" />
+    <None Remove="baiHatQuyDinh\pham_tuyen.jpg" />
+    <None Remove="baiHatQuyDinh\phan_huynh_dieu.jpg" />
+    <None Remove="baiHatQuyDinh\quocte_ca.lrc" />
+    <None Remove="baiHatQuyDinh\quocte_ca.mp3" />
+    <None Remove="baiHatQuyDinh\thanh_nien_lam_theo_loi_bac.lrc" />
+    <None Remove="baiHatQuyDinh\thanh_nien_lam_theo_loi_bac.mp3" />
+    <None Remove="baiHatQuyDinh\tien_buoc_duoi_quan_ky.lrc" />
+    <None Remove="baiHatQuyDinh\tien_buoc_duoi_quan_ky.mp3" />
+    <None Remove="baiHatQuyDinh\tien_quan_ca.lrc" />
+    <None Remove="baiHatQuyDinh\tien_quan_ca.mp3" />
+    <None Remove="baiHatQuyDinh\to_quoc_trong_tim.lrc" />
+    <None Remove="baiHatQuyDinh\to_quoc_trong_tim.mp3" />
+    <None Remove="baiHatQuyDinh\trai_tim_chien_si.mp3" />
+    <None Remove="baiHatQuyDinh\tran_quoc_dat.jpg" />
+    <None Remove="baiHatQuyDinh\tran_viet_duoc.jpg" />
+    <None Remove="baiHatQuyDinh\uoc_mo_chien_si.lrc" />
+    <None Remove="baiHatQuyDinh\uoc_mo_chien_si.mp3" />
+    <None Remove="baiHatQuyDinh\van_cao.jpg" />
+    <None Remove="baiHatQuyDinh\vi_nhan_dan_quen_minh.lrc" />
+    <None Remove="baiHatQuyDinh\vi_nhan_dan_quen_minh.mp3" />
+    <None Remove="baiHatQuyDinh\vu_dieu_hanh_quan2.mp4" />
+    <None Remove="data\baihat.json" />
+    <None Remove="data\dieuvu.json" />
+    <None Remove="data\questions.json" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_hanh_quan.mp3" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_hanh_quan2.mp4" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_hoa_binh.mp3" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_hoa_binh2.mp4" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_linh_tre.mp3" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_linh_tre2.mp4" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_niem_tin.mp3" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_niem_tin2.mp4" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_quan_dan.mp3" />
+    <None Remove="dieuVuSinhHoat\vu_dieu_quan_dan2.mp4" />
+    <None Remove="Images\bgMenu.png" />
+    <None Remove="Images\layer1.png" />
+    <None Remove="Images\layer2.png" />
+    <None Remove="Images\layer3.png" />
+    <None Remove="Images\logo.png" />
+    <None Remove="Images\logo2.png" />
+    <None Remove="Images\menuScreen1.png" />
+    <None Remove="Images\menuScreen2.png" />
+    <None Remove="Images\menuScreen3.png" />
+    <None Remove="Images\menuScreen4.png" />
+    <None Remove="Images\menuScreen5.png" />
+    <None Remove="Images\phongHoa1.jpg" />
+    <None Remove="Images\phongHoa2.jpg" />
+    <None Remove="Images\phongHoa3.jpg" />
+    <None Remove="Images\phongHoa4.jpg" />
+    <None Remove="Images\phongHoa5.jpg" />
+    <None Remove="Images\phongHoa6.jpg" />
+    <None Remove="Images\phongHoa7.jpg" />
+    <None Remove="Images\phongHoa8.jpg" />
+    <None Remove="Images\phongHoa9.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="baiHatQuyDinh\bac_dang_cung_chung_chau_hanh_quan.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\bac_dang_cung_chung_chau_hanh_quan.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\ca_ngoi_ho_chu_tich.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\ca_ngoi_ho_chu_tich.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\chao_mung_dang_cong_san_viet_nam.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\chao_mung_dang_cong_san_viet_nam.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\cuoc_doi_van_dep_sao.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\cuoc_doi_van_dep_sao.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\diep_minh_tuyen.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\doan_nho.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\doan_quang_khai.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\do_minh.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\do_nhuan.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\eugene_pottier.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\giai_phong_dien_bien.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\giai_phong_dien_bien.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\hat_mai_khuc_quan_hanh.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\hat_mai_khuc_quan_hanh.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\hoang_hoa.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\huy_thuc.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\luu_ha_an.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\luu_huu_phuoc.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\nhu_co_bac_trong_ngay_dai_thang.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\nhu_co_bac_trong_ngay_dai_thang.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\pham_tuyen.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\phan_huynh_dieu.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\quocte_ca.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\quocte_ca.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\thanh_nien_lam_theo_loi_bac.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\thanh_nien_lam_theo_loi_bac.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\tien_buoc_duoi_quan_ky.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\tien_buoc_duoi_quan_ky.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\tien_quan_ca.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\tien_quan_ca.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\to_quoc_trong_tim.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\to_quoc_trong_tim.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\trai_tim_chien_si.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\trai_tim_chien_si.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\tran_quoc_dat.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\tran_viet_duoc.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\uoc_mo_chien_si.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\uoc_mo_chien_si.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\van_cao.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\vi_nhan_dan_quen_minh.lrc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="baiHatQuyDinh\vi_nhan_dan_quen_minh.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\baihat.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\dieuvu.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\questions.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_hanh_quan.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_hanh_quan2.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_hoa_binh.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_hoa_binh2.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_linh_tre.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_linh_tre2.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_niem_tin.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_niem_tin2.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_quan_dan.mp3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dieuVuSinhHoat\vu_dieu_quan_dan2.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\bgMenu.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\layer1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\layer2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\layer3.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\logo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\logo2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\menuScreen1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\menuScreen2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\menuScreen3.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\menuScreen4.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\menuScreen5.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\Phanmembotro.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="Images\phongHoa1.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\phongHoa2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\phongHoa3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\phongHoa4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\phongHoa5.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\phongHoa6.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\phongHoa7.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\phongHoa8.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\phongHoa9.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Phanmembotro.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="WPF-UI" Version="4.2.0" />
+  </ItemGroup>
+
+</Project>

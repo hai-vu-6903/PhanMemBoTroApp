@@ -1,0 +1,120 @@
+﻿<UserControl x:Class="phanMemBoTroVersion2.TrangChu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+             mc:Ignorable="d"
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch"
+             Background="Transparent">
+
+    <Grid Background="Transparent">
+
+        <!-- chia layout -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+
+        <!-- ================= HEADER ================= -->
+        <Grid Grid.Row="0" 
+              Background="#FF970A0A">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- ảnh trái -->
+            <Image Source="/Images/logo.png"
+                   Height="70"
+                   Margin="20,0"/>
+
+            <!-- chữ ở giữa -->
+            <TextBlock Grid.Column="1"
+                       Text="PHÒNG CHỐNG TỐT – CHIẾN ĐẤU GIỎI"
+                       FontSize="50"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Foreground="#FFD700"/>
+
+            <!-- ảnh phải -->
+            <Image Grid.Column="2"
+                   Source="/Images/logo2.png"
+                   Height="50"
+                   Margin="20,0"/>
+
+            <Rectangle Height="2"
+                       Fill="#FFD700"
+                       VerticalAlignment="Bottom"
+                       Grid.ColumnSpan="3"/>
+
+        </Grid>
+
+
+        <!-- ================= NỘI DUNG ================= -->
+        <Grid Grid.Row="1">
+
+            <!-- Ảnh góc trên phải -->
+            <Image Source="/Images/layer2.png"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Top"
+                   Stretch="UniformToFill"
+                   Width="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=Grid}}"
+                   Opacity="1"/>
+
+            <!-- Ảnh góc dưới trái -->
+            <Image Source="/Images/layer3.png"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Bottom"
+                   Margin="-50,0,0, -30"
+                   Stretch="Uniform"
+                   Width="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=Grid}}"
+                   MaxWidth="600"/>
+
+            <!-- Nội dung chính -->
+            <Border Padding="30"
+                    CornerRadius="10"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center" Background="#AA909090">
+                <StackPanel HorizontalAlignment="Stretch">
+
+                    <TextBlock Text="MỘT SỐ NỘI DUNG BỔ TRỢ&#x0a;CHO HẠ SĨ QUAN, BINH SĨ"
+                               FontSize="50"
+                               FontWeight="Bold"
+                               Foreground="White"
+                               TextAlignment="Center"
+                               Margin="0,0,0,15">
+                        <TextBlock.Effect>
+                            <DropShadowEffect Color="Black" BlurRadius="6" ShadowDepth="2"/>
+                        </TextBlock.Effect>
+                    </TextBlock>
+
+                    <TextBlock Text="Tác giả: Nguyễn Minh Trí"
+                               FontSize="22"
+                               Foreground="#DDDDDD"
+                               TextAlignment="Center"
+                               Margin="0,0,0,25">
+                        <TextBlock.Effect>
+                            <DropShadowEffect Color="Black" BlurRadius="4" ShadowDepth="1"/>
+                        </TextBlock.Effect>
+                    </TextBlock>
+
+                    <ui:Button Content="Bắt đầu"
+                               Width="140"
+                               Height="40"
+                               Appearance="Caution"
+                               HorizontalAlignment="Center"
+                               Click="BatDau_Click"/>
+
+                </StackPanel>
+            </Border>
+
+        </Grid>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\models\\baihat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\models\\baihat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\data\\baihat.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\data\\baihat.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\tracnghiem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\tracnghiem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\menuchinh.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\menuchinh.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\tracnghiem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\tracnghiem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\baihat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\baihat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\dieuvusinhhoat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\dieuvusinhhoat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\dieuvusinhhoat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\dieuvusinhhoat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\baihat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\baihat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\authorinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\authorinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\authorinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\authorinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\menuchinh.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\menuchinh.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|d:\\laptrinhnet\\phanmembotroversion2\\phanmembotroversion2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1150E58-A4EC-4FE0-BE1B-20F0E8BB6EA5}|phanMemBoTroVersion2\\phanMemBoTroVersion2.csproj|solutionrelative:phanmembotroversion2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "baihat.json",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\data\\baihat.json",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\data\\baihat.json",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\data\\baihat.json",
+              "RelativeToolTip": "phanMemBoTroVersion2\\data\\baihat.json",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T14:13:05.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiHat.cs",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\models\\BaiHat.cs",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\models\\BaiHat.cs",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\models\\BaiHat.cs",
+              "RelativeToolTip": "phanMemBoTroVersion2\\models\\BaiHat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:34:57.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaiHat.xaml.cs",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\BaiHat.xaml.cs",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\BaiHat.xaml.cs",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\BaiHat.xaml.cs",
+              "RelativeToolTip": "phanMemBoTroVersion2\\BaiHat.xaml.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAIwBABAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:32:08.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorInfo.xaml.cs",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\AuthorInfo.xaml.cs",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\AuthorInfo.xaml.cs",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\AuthorInfo.xaml.cs",
+              "RelativeToolTip": "phanMemBoTroVersion2\\AuthorInfo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:36:36.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\MainWindow.xaml",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\MainWindow.xaml",
+              "RelativeToolTip": "phanMemBoTroVersion2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T12:47:34.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TracNghiem.xaml.cs",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\TracNghiem.xaml.cs",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\TracNghiem.xaml.cs",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\TracNghiem.xaml.cs",
+              "RelativeToolTip": "phanMemBoTroVersion2\\TracNghiem.xaml.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAA0wPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T03:55:28.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorInfo.xaml",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\AuthorInfo.xaml",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\AuthorInfo.xaml",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\AuthorInfo.xaml",
+              "RelativeToolTip": "phanMemBoTroVersion2\\AuthorInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-06T10:36:07.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrangChu.xaml.cs",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\TrangChu.xaml.cs",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\TrangChu.xaml.cs",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\TrangChu.xaml.cs",
+              "RelativeToolTip": "phanMemBoTroVersion2\\TrangChu.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:32:40.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaiHat.xaml",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\BaiHat.xaml",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\BaiHat.xaml",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\BaiHat.xaml",
+              "RelativeToolTip": "phanMemBoTroVersion2\\BaiHat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-06T08:04:02.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DieuVuSinhHoat.xaml.cs",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\DieuVuSinhHoat.xaml.cs",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\DieuVuSinhHoat.xaml.cs",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\DieuVuSinhHoat.xaml.cs",
+              "RelativeToolTip": "phanMemBoTroVersion2\\DieuVuSinhHoat.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T00:44:52.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TracNghiem.xaml",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\TracNghiem.xaml",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\TracNghiem.xaml",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\TracNghiem.xaml",
+              "RelativeToolTip": "phanMemBoTroVersion2\\TracNghiem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-06T08:04:46.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DieuVuSinhHoat.xaml",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\DieuVuSinhHoat.xaml",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\DieuVuSinhHoat.xaml",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\DieuVuSinhHoat.xaml",
+              "RelativeToolTip": "phanMemBoTroVersion2\\DieuVuSinhHoat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-06T08:04:22.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuChinh.xaml.cs",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\MenuChinh.xaml.cs",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\MenuChinh.xaml.cs",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\MenuChinh.xaml.cs",
+              "RelativeToolTip": "phanMemBoTroVersion2\\MenuChinh.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:02:49.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuChinh.xaml",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\MenuChinh.xaml",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\MenuChinh.xaml",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\MenuChinh.xaml",
+              "RelativeToolTip": "phanMemBoTroVersion2\\MenuChinh.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-06T01:15:57.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrangChu.xaml",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\TrangChu.xaml",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\TrangChu.xaml",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\TrangChu.xaml",
+              "RelativeToolTip": "phanMemBoTroVersion2\\TrangChu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T14:12:52.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\App.xaml",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\App.xaml",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\App.xaml",
+              "RelativeToolTip": "phanMemBoTroVersion2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-05T12:54:00.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "phanMemBoTroVersion2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\lapTrinhNet\\phanMemBoTroVersion2\\phanMemBoTroVersion2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "phanMemBoTroVersion2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:47:23.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

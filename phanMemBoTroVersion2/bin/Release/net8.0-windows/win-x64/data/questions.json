@@ -1,0 +1,849 @@
+[
+  {
+    "exams": [
+      {
+        "id": 1,
+        "title": "Bộ đề 1",
+        "questions": [
+          {
+            "question": "Ngày thành lập Quân đội nhân dân Việt Nam là ngày nào?",
+            "options": ["19/5/1941", "22/12/1944", "2/9/1945", "1/1/1950"],
+            "answer": 1
+          },
+          {
+            "question": "Tên gọi đầu tiên của Quân đội nhân dân Việt Nam là gì?",
+            "options": [
+              "Việt Nam Giải phóng quân",
+              "Vệ quốc đoàn",
+              "Đội Việt Nam Tuyên truyền giải phóng quân",
+              "Quân đội Quốc gia Việt Nam"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Quân đội nhân dân Việt Nam đổi tên thành Quân đội nhân dân Việt Nam vào năm nào?",
+            "options": ["1946", "1950", "1954", "1975"],
+            "answer": 2
+          },
+          {
+            "question": "Trong chiến dịch Điện Biên Phủ, ai là anh hùng nổi bật được nhắc đến trong bài thơ của Tố Hữu?",
+            "options": [
+              "Võ Nguyên Giáp",
+              "Tô Vĩnh Diện",
+              "Hoàng Sâm",
+              "Xích Thắng"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Ngày thành lập Đảng Cộng sản Việt Nam là khi nào?",
+            "options": ["3/2/1930", "19/5/1930", "2/9/1945", "22/12/1944"],
+            "answer": 0
+          },
+          {
+            "question": "Các tổ chức cộng sản nào hợp nhất để thành lập Đảng Cộng sản Việt Nam?",
+            "options": [
+              "Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng, Đông Dương Cộng sản Liên đoàn",
+              "Việt Nam Quốc dân Đảng, An Nam Cộng sản Đảng, Đông Dương Cộng sản Liên đoàn",
+              "Đông Dương Cộng sản Đảng, Việt Nam Giải phóng quân, Đông Dương Cộng sản Liên đoàn",
+              "Việt Minh, Đông Dương Cộng sản Liên đoàn, An Nam Cộng sản Đảng"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Ai được Chủ tịch Hồ Chí Minh ủy nhiệm lãnh đạo Đội Việt Nam Tuyên truyền giải phóng quân?",
+            "options": [
+              "Hoàng Sâm",
+              "Xích Thắng",
+              "Võ Nguyên Giáp",
+              "Hoàng Văn Thái"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Mục tiêu lý tưởng chiến đấu của quân đội do Đảng lãnh đạo là gì?",
+            "options": [
+              "Chỉ bảo vệ biên giới",
+              "Độc lập dân tộc gắn liền với chủ nghĩa xã hội, vì mục tiêu dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
+              "Chỉ tập trung vào huấn luyện kỹ thuật",
+              "Hoạt động quốc tế độc lập, không cần Đảng lãnh đạo"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Nguyên tắc lãnh đạo của Đảng đối với quân đội hiện nay là gì?",
+            "options": [
+              "Gián tiếp qua các tổ chức trung gian",
+              "Tuyệt đối, trực tiếp về mọi mặt",
+              "Chỉ áp dụng trong huấn luyện và chiến đấu",
+              "Chỉ áp dụng khi quân đội tham gia gìn giữ hòa bình quốc tế"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Đội Việt Nam Tuyên truyền Giải phóng quân ban đầu gồm bao nhiêu đồng chí?",
+            "options": ["20", "34", "50", "100"],
+            "answer": 1
+          },
+          {
+            "question": "Bản chất giai cấp của Quân đội nhân dân Việt Nam là gì?",
+            "options": [
+              "Bản chất giai cấp công nhân, tính nhân dân và tính dân tộc sâu sắc",
+              "Bản chất nông dân, tính dân chủ và tính độc lập",
+              "Bản chất tư sản, tính chuyên nghiệp và kỷ luật",
+              "Bản chất quân sự, tính chiến đấu và tự lập"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Quân đội nhân dân Việt Nam được tổ chức, lãnh đạo và giáo dục bởi ai?",
+            "options": [
+              "Chính phủ Việt Nam",
+              "Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh",
+              "Hội đồng quân nhân",
+              "Quốc hội Việt Nam"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Ba chức năng cơ bản của Quân đội nhân dân Việt Nam là gì?",
+            "options": [
+              "Chiến đấu, công tác, lao động sản xuất",
+              "Chiến đấu, nghiên cứu, đối ngoại",
+              "Công tác, nghiên cứu, phát triển công nghệ",
+              "Chiến đấu, chính trị, ngoại giao"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Chức năng đội quân công tác của quân đội được biểu hiện ở:",
+            "options": [
+              "Tham gia xây dựng kinh tế, văn hóa, xã hội, phát triển hệ thống chính trị cơ sở",
+              "Huấn luyện, sẵn sàng chiến đấu",
+              "Lao động sản xuất trong đơn vị",
+              "Chỉ thực hiện nhiệm vụ quốc tế"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Chức năng đội quân lao động sản xuất thể hiện:",
+            "options": [
+              "Quân đội tự lực, tự cường sản xuất lương thực, cải tiến vũ khí",
+              "Chỉ bảo vệ lãnh thổ",
+              "Chỉ tham gia nhiệm vụ quốc tế",
+              "Chỉ huấn luyện chiến đấu"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Nhiệm vụ hàng đầu của quân đội hiện nay là gì?",
+            "options": [
+              "Sẵn sàng chiến đấu và chiến đấu thắng lợi",
+              "Lao động sản xuất",
+              "Công tác dân vận",
+              "Tham gia hoạt động quốc tế"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Ngày truyền thống của Bộ đội Hóa học là ngày nào?",
+            "options": ["30/01/1962", "19/4/1958", "31/12/1977", "15/9/1976"],
+            "answer": 1
+          },
+          {
+            "question": "Tiền thân đầu tiên của Bộ đội Hóa học là tổ chức nào?",
+            "options": [
+              "Tiểu đoàn 901",
+              "Tổ nghiên cứu tác chiến dưới điều kiện vũ khí hóa học và nguyên tử",
+              "Phòng Hóa học – Nguyên tử",
+              "Trường Sĩ quan Phòng hóa"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Lữ đoàn 86 được tổ chức lại từ Trung đoàn 86 vào năm nào?",
+            "options": ["1997", "2002", "2013", "2017"],
+            "answer": 2
+          },
+          {
+            "question": "Truyền thống của Bộ đội Hóa học là:",
+            "options": [
+              "Trung với Đảng, hiếu với dân",
+              "Chủ động, sáng tạo, đoàn kết",
+              "Phòng chống tốt, chiến đấu giỏi",
+              "Độc lập, tự chủ, sáng tạo"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Tiểu đoàn 903 được thành lập vào ngày?",
+            "options": ["19/4/1958", "31/12/1977", "03/11/1976", "15/9/1976"],
+            "answer": 3
+          },
+          {
+            "question": "Nhiệm vụ chính của Tiểu đoàn 903 là:",
+            "options": [
+              "Huấn luyện kỹ thuật trinh sát NBC",
+              "SSCĐ, huấn luyện chuyên ngành tiêu tẩy, huấn luyện chiến sỹ mới, huấn luyện dự bị động viên",
+              "Bảo đảm khói nguỵ trang cho các chiến dịch",
+              "Vận chuyển và bảo quản khí tài hóa học"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Bộ đội Hóa học được phong tặng danh hiệu Anh hùng LLVTND thời kỳ kháng chiến chống Mỹ vào năm nào?",
+            "options": ["1967", "1975", "2010", "2002"],
+            "answer": 2
+          },
+          {
+            "question": "Một nhiệm vụ quan trọng của Bộ đội Hóa học trong thời bình là:",
+            "options": [
+              "Thi công công trình quốc phòng",
+              "Sửa chữa phương tiện chiến đấu",
+              "Xử lý chất độc hóa học tồn lưu sau chiến tranh",
+              "Bảo dưỡng trang bị thông tin liên lạc"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Một nét truyền thống tiêu biểu của Bộ đội Hóa học là:",
+            "options": [
+              "Tích cực, chủ động, làm chủ vũ khí công nghệ cao",
+              "Đoàn kết, hiệp đồng, đánh thắng mọi kẻ thù",
+              "Trung thành tuyệt đối, dũng cảm, mưu trí, sáng tạo",
+              "Tinh thần quốc tế vô sản trong sáng"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Bộ đề 2",
+        "questions": [
+          {
+            "question": "Bộ Tổng tham mưu ra quyết định lấy ngày 19/4/1958 là Ngày truyền thống Bộ đội Hóa học vào năm nào?",
+            "options": ["Năm 1971", "Năm 1972", "Năm 1973"],
+            "answer": 2
+          },
+          {
+            "question": "Binh chủng Hóa học được nhà nước tặng thưởng danh hiệu cao quý Đơn vị Anh hùng Lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Mỹ, cứu nước vào năm nào?",
+            "options": ["Năm 2009", "Năm 2010", "Năm 2011"],
+            "answer": 1
+          },
+          {
+            "question": "Ban Chấp hành Đảng bộ Bộ Tổng tham mưu ra quyết định số 191/BCH, thành lập Đảng bộ Hóa học ngày tháng năm nào?",
+            "options": ["09/7/1963", "09/7/1964", "09/7/1965"],
+            "answer": 2
+          },
+          {
+            "question": "Đơn vị nào tham gia trận đánh Làng vây, Khe Sanh?",
+            "options": [
+              "Đại đội 91, Tiểu đoàn 902",
+              "Đại đội 2, Tiểu đoàn 901",
+              "Đại đội 92"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Bộ đội Hóa học tham gia đảm phòng hóa đầu tiên cho Chiến dịch Đồng Xoài, ngày tháng năm nào?",
+            "options": ["09/5/1965", "09/6/1965", "09/7/1965"],
+            "answer": 0
+          },
+          {
+            "question": "Bộ đội Hóa học lần đầu tiên thực hiện nhiệm vụ thả khói ngụy trang bảo vệ Nhà máy điện, Nhà máy nước Yên Phụ - Hà Nội vào thời gian nào?",
+            "options": ["21/8/1966", "21/8/1967", "21/8/1968"],
+            "answer": 1
+          },
+          {
+            "question": "Theo quyết định số 415/QĐ-TM của Bộ Tổng Tham mưu, Kho Khí tài 61 có nhiệm vụ gì khi mới được thành lập?",
+            "options": [
+              "Tiếp nhận, bảo quản, sửa chữa, giữ gìn, cấp phát khí tài đặc chủng",
+              "Bảo quản, sửa chữa, giữ gìn, cấp phát khí tài đặc chủng",
+              "Giữ gìn, cấp phát khí tài đặc chủng"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Tổng thống Mỹ Ních-xơn phải ra lệnh hủy bỏ việc phun rải các loại chất độc diệt cỏ ở miền Nam Việt Nam vào thời gian nào?",
+            "options": ["26/12/1970", "27/12/1970", "28/12/1970"],
+            "answer": 0
+          },
+          {
+            "question": "Binh chủng Hóa học được trao tặng bao nhiêu Huân chương Độc lập hạng Nhất?",
+            "options": ["01 huân chương", "02 huân chương", "03 huân chương"],
+            "answer": 1
+          },
+          {
+            "question": "Binh chủng Hóa học được trao tặng Huân chương Hồ Chí Minh lần thứ nhất vào năm nào?",
+            "options": ["1974", "1975", "1976"],
+            "answer": 1
+          },
+          {
+            "question": "Đảng bộ Hóa học được thành lập ngày tháng năm nào?",
+            "options": ["09/7/1965", "19/7/1965", "29/7/1965"],
+            "answer": 0
+          },
+          {
+            "question": "Đơn vị nào tham gia thả khói bảo vệ mục tiêu Nhà máy Điện Yên Phụ năm 1967?",
+            "options": ["Đại đội 92", "Đại đội 91", "Đại đội 93"],
+            "answer": 0
+          },
+          {
+            "question": "Bài hát \"Âm vang những đoàn quân phòng hóa\" do ai sáng tác?",
+            "options": [
+              "Nguyễn Quang Đồng",
+              "Nguyễn Đức Chung",
+              "Trần Bảo Anh"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Theo Quyết định số 224/QĐ-QP ngày 17/7/1976 phát triển Cục Hóa học thành Bộ Tư lệnh Hóa học và xác định mấy nhiệm vụ cơ bản?",
+            "options": ["01 nhiệm vụ", "03 nhiệm vụ", "05 nhiệm vụ"],
+            "answer": 1
+          },
+          {
+            "question": "Đồng chí nào của Binh chủng Hóa học đã được tuyên dương Anh hùng LLVT Nhân dân trong trận Làng Vây (1967)?",
+            "options": [
+              "Đ/c Giang Lệ Bồng",
+              "Đ/c Hoàng Văn Vẻ",
+              "Đ/c Lê Hữu Lập"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Thành lập Tiểu đoàn 902 và đổi Tiểu đoàn 6 thành Tiểu đoàn 901 vào ngày tháng năm nào?",
+            "options": ["01/3/1962", "03/10/1963", "30/01/1962"],
+            "answer": 2
+          },
+          {
+            "question": "Trung đoàn 86 (nay là Lữ đoàn 86) được trao tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân thời kỳ đổi mới vào năm nào?",
+            "options": ["2000", "2001", "2002"],
+            "answer": 2
+          },
+          {
+            "question": "Ban Hoá học Quân khu 5 được thành lập tháng năm nào?",
+            "options": ["02/1965", "3/1965", "4/1965"],
+            "answer": 1
+          },
+          {
+            "question": "Tiểu đoàn Phòng hóa Quân khu 5 được nhận Huân chương Chiến công hạng Ba vào năm nào?",
+            "options": ["1995", "1996", "1997"],
+            "answer": 2
+          },
+          {
+            "question": "Từ tháng 9 năm 1997 đến nay (năm 2022) Binh chủng Hóa học có bao nhiêu đồng chí giữ chức vụ Chính ủy Binh chủng?",
+            "options": ["05 đồng chí", "06 đồng chí", "07 đồng chí"],
+            "answer": 0
+          },
+          {
+            "question": "Binh chủng Hóa học được trao tặng Huân chương Lao động hạng Ba vào năm nào?",
+            "options": ["2019", "2020", "2021"],
+            "answer": 2
+          },
+          {
+            "question": "Cục Hoá học phát triển thành Bộ Tư lệnh Hoá học ngày tháng năm nào?",
+            "options": ["Ngày 17/7/1976", "Ngày 18/7/1976", "Ngày 19/7/1976"],
+            "answer": 0
+          },
+          {
+            "question": "Binh chủng Hóa học được nhận bao nhiêu Huân chương Hồ Chí Minh?",
+            "options": ["03 huân chương", "04 huân chương", "02 huân chương"],
+            "answer": 2
+          },
+          {
+            "question": "Binh chủng Hóa học hiện nay có mấy chức năng cơ bản?",
+            "options": ["02 chức năng", "03 chức năng", "05 chức năng"],
+            "answer": 0
+          },
+          {
+            "question": "Bộ đội Hóa học hiện nay có mấy nét truyền thống tiêu biểu?",
+            "options": ["06", "05", "04"],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Bộ đề 3",
+        "questions": [
+          {
+            "question": "Phòng Hoá học nguyên tử phát triển thành Cục Hóa học ngày tháng năm nào?",
+            "options": ["08/5/1966", "09/5/1966", "10/5/1966"],
+            "answer": 1
+          },
+          {
+            "question": "Binh chủng Hóa học hiện nay có mấy nhiệm vụ?",
+            "options": ["01 nhiệm vụ", "02 nhiệm vụ", "03 nhiệm vụ"],
+            "answer": 1
+          },
+          {
+            "question": "Trong kháng chiến chống Mỹ cứu nước đơn vị nào của Binh chủng Hóa học đã thả khói bảo vệ nhà máy điện nước Yên Phụ?",
+            "options": [
+              "Đại đội 1, Tiểu đoàn 901",
+              "Đại đội 91, Tiểu đoàn 902",
+              "Đại đội 92, Tiểu đoàn 902"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Năm 1967 trong khi thực hiện thả khói ngụy trang an toàn cho cầu Đuống, đồng chí nào đã anh dũng hy sinh?",
+            "options": ["Lê Hữu Lập", "Giang Lệ Bồng", "Trần Văn Cấn"],
+            "answer": 1
+          },
+          {
+            "question": "Đồng chí Phó Tư lệnh về Chính trị đầu tiên của Binh chủng Hóa học?",
+            "options": ["Lê Hữu Lập", "Trần Văn Cấn", "Phạm Quốc Trung"],
+            "answer": 0
+          },
+          {
+            "question": "Có bao nhiêu đơn vị trực thuộc Binh chủng Hóa học đã vinh dự được đón nhận danh hiệu Anh hùng lực lượng vũ trang nhân dân thời kỳ kháng chiến chống Mỹ, cứu nước?",
+            "options": ["04 đơn vị", "02 đơn vị", "03 đơn vị"],
+            "answer": 1
+          },
+          {
+            "question": "Đơn vị nào của Binh chủng Hóa học tham gia chiến đấu bảo vệ biên giới phía Bắc?",
+            "options": ["Tiểu đoàn 901", "Tiểu đoàn 902", "Tiểu đoàn 903"],
+            "answer": 1
+          },
+          {
+            "question": "Bộ đội Hóa học Khắc phục hậu quả một toa xe lửa chở thuốc trừ sâu bị máy bay Mỹ đánh trúng tại ga Gôi, huyện Vụ Bản, tỉnh Hà Nam Ninh vào ngày tháng năm nào?",
+            "options": ["21/8/1966", "21/8/1967", "21/8/1968"],
+            "answer": 0
+          },
+          {
+            "question": "Bộ đội Hóa học tham gia dập tắt cháy ngầm trong lòng mỏ than Thống Nhất, Quảng Ninh vào năm nào?",
+            "options": ["28/01/1975", "28/01/1976", "28/01/1977"],
+            "answer": 2
+          },
+          {
+            "question": "Nhiệm vụ Khoa Hóa học - Trường Sĩ quan Lục quân là?",
+            "options": [
+              "Đào tạo sĩ quan Hoá Học",
+              "Đào tạo hạ sĩ quan Hoá Học",
+              "Đào tạo quân nhân chuyên nghiệp Hoá Học"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Nhiệm vụ Hóa học của Trường Trung cao quân sự là?",
+            "options": [
+              "Bồi dưỡng những kiến thức về hoá học, nguyên tử cho cán bộ trung cấp trong toàn quân",
+              "Bồi dưỡng những kiến thức về hoá học, nguyên tử cho cán bộ trung cấp, cao cấp trong toàn quân",
+              "Bồi dưỡng những kiến thức về hoá học, nguyên tử cao cấp trong toàn quân"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Đơn vị nào đào tạo sĩ quan hóa học đầu tiên?",
+            "options": [
+              "Khoa Hóa học, Trường Sĩ quan Lục quân",
+              "Tiểu đoàn 6, Trường Sĩ quan Lục Quân",
+              "Phòng Hóa học-Nguyên tử"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Tiểu đoàn Hóa học đầu tiên của Quân đội nhân dân Việt Nam có nhiệm vụ gì?",
+            "options": [
+              "Đào tạo Hạ sĩ quan hoá học cho toàn quân",
+              "Đảm nhiệm phòng hoá học, hạt nhân và chiến đấu bằng vũ khí lửa",
+              "Đào tạo Hạ sĩ quan hoá học cho toàn quân, đảm nhiệm phòng hoá học, hạt nhân và chiến đấu bằng vũ khí lửa"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Người thuyết minh với Bác Hồ tại Triển lãm sáng kiến cải tiến kỹ thuật toàn quân được tổ chức tháng 3 năm 1961 là ai?",
+            "options": [
+              "Đ/c Trần Văn Cấn",
+              "Đ/c Giang Lệ Bồng",
+              "Đ/c Hoàng Văn Vẻ"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Cuộc diễn tập đầu tiên của Bộ đội Hóa học trong đội hình chiến đấu hiệp đồng giữa các quân chủng, binh chủng diễn ra vào thời gian nào?",
+            "options": ["Giữa năm 1962", "Giữa năm 1961", "Giữa năm 1963"],
+            "answer": 1
+          },
+          {
+            "question": "Ngày 12/06/1961, Bộ Quốc phòng ra Chỉ thị số 446/QP về việc đào tạo hạ sĩ quan, nhân viên chuyên môn kỹ thuật Hóa học cho chiến trường gồm bao nhiêu tiểu đội trưởng và bao nhiêu hóa nghiệm viên?",
+            "options": [
+              "31 Tiểu đội trưởng và 08 hoá nghiệm viên",
+              "32 Tiểu đội trưởng và 08 hoá nghiệm viên",
+              "33 Tiểu đội trưởng và 08 hoá nghiệm viên"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Trưởng phòng đầu tiên của Phòng Hoá học - Nguyên tử thuộc Cục Huấn luyện chiến đấu là ai?",
+            "options": [
+              "Đ/c Đặng Quân Thuỵ",
+              "Đ/c Trần Văn Cấn",
+              "Đ/c Hoàng Văn Vẻ"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Phòng Hoá học Quân khu 4 được thành lập vào thời gian nào?",
+            "options": ["6/1961", "3/1965", "4/1965"],
+            "answer": 0
+          },
+          {
+            "question": "Kho Khí tài hoá học với phiên hiệu Kho Khí tài 61 được thành lập vào thời gian nào?",
+            "options": ["08/12/1962", "07/12/1962", "06/12/1962"],
+            "answer": 2
+          },
+          {
+            "question": "Quân khu Tây Bắc đưa trung đội phun lửa của tiểu đoàn hóa học quân khu đi chiến đấu trên chiến trường Lào năm nào?",
+            "options": ["Năm 1967", "Năm 1966", "Năm 1968"],
+            "answer": 0
+          },
+          {
+            "question": "Bộ Tư lệnh Quân khu 5 thành lập Ban Hóa học (Ban 12) thời gian nào?",
+            "options": ["3/1965", "4/1966", "5/1965"],
+            "answer": 0
+          },
+          {
+            "question": "Năm 1972, phân đội màn khói Tiểu đoàn 902 Cục Hóa học thực hiện nhiệm vụ thả khói bảo vệ cầu Đuống, đồng chí nào đã anh dũng hy sinh?",
+            "options": [
+              "Đ/c Giang Lệ Bồng",
+              "Đ/c Trần Văn Cấn",
+              "Đ/c Hoàng Văn Vẻ"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Hội nghị chống chiến tranh hóa học của đế quốc Mỹ ở miền Nam Việt Nam tháng 12 năm 1970 được tổ chức ở đâu?",
+            "options": ["Giơ-ne-vơ, Thụy Sĩ", "NewYork, Mỹ", "London, Anh"],
+            "answer": 1
+          },
+          {
+            "question": "Đại tướng Võ Nguyên Giáp đã tới thăm cơ sở nghiên cứu, sản xuất trang bị kỹ thuật hóa học thời gian nào?",
+            "options": ["11/1969", "12/1968", "12/1969"],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Bộ đề 4",
+        "questions": [
+          {
+            "question": "Đại tướng Võ Nguyên Giáp đã tới thăm cơ sở nghiên cứu, sản xuất trang bị kỹ thuật hóa học thời gian nào?",
+            "options": ["10/1969", "11/1969", "12/1969"],
+            "answer": 2
+          },
+          {
+            "question": "Tổ dũng sĩ diệt Mỹ và xe cơ giới ở chiến trường Đường 9 -- Nam Lào năm 1969-1971 gồm bao nhiêu người?",
+            "options": ["10 đồng chí", "11 đồng chí", "12 đồng chí"],
+            "answer": 0
+          },
+          {
+            "question": "Đại tướng Võ Nguyên Giáp đã ký quyết định 224/QĐ-QP phát triển Cục Hoá học thành Bộ Tư lệnh Hoá học vào thời gian nào?",
+            "options": ["17/7/1976", "18/7/1976", "19/7/1976"],
+            "answer": 2
+          },
+          {
+            "question": "Tư lệnh đầu tiên của Bộ Tư lệnh Hoá học là ai?",
+            "options": [
+              "Đ/c Phạm Quốc Trung",
+              "Đ/c Nguyễn Tiến Phát",
+              "Đ/c Đặng Quân Thuỵ"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Phim tài liệu quân đội nào ghi lại hình ảnh Bộ đội Hoá học dập cháy ở Mỏ than Thống Nhất tháng 3/1977, mở đầu cho hoạt động: Tham gia khắc phục các sự cố hoá chất độc trong công cuộc kiến thiết đất nước?",
+            "options": [
+              "Nhiệm vụ vẻ vang",
+              "Nhiệm vụ đặc biệt",
+              "Nhiệm vụ thầm lặng"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Bộ Tư lệnh Hoá học tham gia cuộc diễn tập phòng thủ chiến lược của Bộ tại các quân khu phía Bắc lần đầu tiên vào gian nào?",
+            "options": ["01/1981", "10/1981", "11/1981"],
+            "answer": 0
+          },
+          {
+            "question": "Binh chủng Hóa học được trao tặng bao nhiêu Huân chương Quân công hạng Nhất và hạng Ba?",
+            "options": [
+              "03 huân chương quân công Hạng Nhất, 01 hạng ba",
+              "02 huân chương quân công Hạng Nhất, 01 hạng ba",
+              "02 huân chương quân công Hạng Nhất, 02 hạng ba"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Phòng Hóa học-Nguyên tử được thành lập theo Sắc lệnh số 60/SL của Chủ tịch nước về việc thành lập Tổng cục Quân huấn, Bộ Quốc phòng lúc đầu thành lập gồm bao nhiêu đồng chí?",
+            "options": ["04 đồng chí", "06 đồng chí", "08 đồng chí"],
+            "answer": 0
+          },
+          {
+            "question": "Tiểu đoàn Hóa học 6, Trường SQLQ1 vị trí đóng quân tại đâu?",
+            "options": [
+              "Đồi D, Kim Thái, huyện Tùng Thiện, tỉnh Sơn Tây",
+              "Đồi A, Đồng Mô, Sơn Tây, Hà Nội",
+              "Đồi 3A, Thạch Hòa, Thạch Thất, Hà Nội"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Ban Chỉ huy đầu tiên của Tiểu đoàn Hóa học 6?",
+            "options": [
+              "Đ/c Tăng Thiện Kim -Tiểu đoàn trưởng; Đ/c Hoàng Đình Thông -- CTV/d; Đ/c Đỗ Văn Lan -- TMT",
+              "Đ/c Tăng Thiện Kim- CTV/d; Đ/c Hoàng Đình Thông-Tiểu đoàn trưởng",
+              "Đ/c Tăng Thiện Kim-TMT; Đ/c Hoàng Đình Thông-Tiểu đoàn trưởng"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Tổ chức Đảng bộ Hóa học đầu tiên gồm bao nhiêu đồng chí?",
+            "options": ["05 đồng chí", "06 đồng chí", "07 đồng chí"],
+            "answer": 0
+          },
+          {
+            "question": "Các đơn vị Hóa học đầu tiên được thành lập theo Sắc lệnh số 60 của Chủ tịch nước, Quyết định 214 của Bộ Tổng tham mưu?",
+            "options": [
+              "Phòng Hoá học nguyên tử, Tiểu đoàn 6, 02 đại đội hoá học",
+              "Khoa hoá học Trường SQLQ Việt Nam, Khoa hoá học Trường trung cao quân sự",
+              "Cả 2 phương án trên"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Tham mưu cho Bộ trong việc chỉ đạo xây dựng lực lượng phòng hóa toàn quân, huấn luyện, phổ cập phòng, chống vũ khí hóa học, hạt nhân trong ba thứ quân và quản lý xây dựng các đơn vị hóa học trực thuộc là nhiệm vụ của đơn vị nào?",
+            "options": [
+              "Khoa hoá học Trường SQLQ Việt Nam",
+              "Phòng hoá học -- nguyên tử trực thuộc BTTM",
+              "Khoa hoá học Trường trung cao quân sự"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Biên chế, tổ chức của Phòng Hóa học-Nguyên tử?",
+            "options": [
+              "Biên chế thành 43 cán bộ, chiến sĩ và nhân viên tổ chức thành 06 ban: Tác chiến; Huấn luyện; kĩ thuật; hoá nghiệm; quân lực khí tài; chính trị cán bộ; văn thư bảo mật",
+              "Biên chế thành 43 cán bộ, chiến sĩ và nhân viên tổ chức thành 06 ban: Tác chiến; Huấn luyện; kĩ thuật; hoá nghiệm; quân lực khí tài; chính trị cán bộ; văn thư bảo mật và 2 tổ sửa chữa, sản xuất ống trinh độc",
+              "Biên chế thành 45 cán bộ, chiến sĩ và nhân viên tổ chức thành 06 ban: Tác chiến; Huấn luyện; kĩ thuật; hoá nghiệm; quân lực khí tài; chính trị cán bộ và 2 tổ sửa chữa, sản xuất ống trinh độc"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Tiểu đoàn Phòng hóa Quân khu 1 được nhận Huân chương Chiến công hạng Ba vào năm nào?",
+            "options": ["Năm 2003", "Năm 2004", "Năm 2000"],
+            "answer": 0
+          },
+          {
+            "question": "Lời căn dặn của Chủ tịch Hồ Chí Minh đối với Bộ đội Hóa học tháng 3 năm 1961, tại Triển lãm sáng kiến, cải tiến kỹ thuật toàn quân?",
+            "options": [
+              "\"Đất nước ta còn nghèo, ngành Hóa học cũng còn nhiều thiếu thốn nên các cháu phải cố gắng. Các cháu về phải vận động nhiều người làm được nhiều hơn, phổ biến những việc đã làm để anh em học tập\"",
+              "\"Quân đội ta là quân đội nhân dân, do dân đẻ ra, vì dân mà chiến đấu, yêu nước, yêu dân, cho nên hy sinh kham khổ\"",
+              "\"Phải học tập chính trị: Quân sự mà không có chính trị như cây không có gốc, vô dụng lại có hại. Quân đội ta là Quân đội nhân dân. Nhân dân có Đảng lãnh đạo, Đảng có chính cương, chính sách. Đã là Quân đội nhân dân thì phải học chính sách của Đảng\""
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Nhiệm vụ Hóa học Trường Trung cao quân sự là?",
+            "options": [
+              "Bồi dưỡng kiến thức về hoá học, nguyên tử cho Hạ sĩ quan trong toàn quân",
+              "Bồi dưỡng kiến thức về hoá học, nguyên tử cho cán bộ trung cấp,trong toàn quân",
+              "Bồi dưỡng kiến thức về hoá học, nguyên tử cho cán bộ trung cấp, cao cấp trong toàn quân"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Chức năng, nhiệm vụ của Tiểu đoàn Hóa học 6/Trường Sĩ quan Lục quân 1?",
+            "options": [
+              "Đào tạo hạ sỹ quan hóa học cho toàn quân, đảm nhiệm phòng hóa học, hạt nhân và chiến đấu bằng vũ khí lửa",
+              "Đào tạo hạ sỹ quan hóa học cho toàn quân",
+              "Đảm nhiệm phòng hóa học, hạt nhân và chiến đấu bằng vũ khí lửa"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Từ khi ra đời đến năm 1961 Bộ đội Hóa học có bao nhiêu cơ sở được giao nhiệm vụ đào tạo hạ sĩ quan hóa học?",
+            "options": ["01 cơ sở", "02 cơ sở", "03 cơ sở"],
+            "answer": 1
+          },
+          {
+            "question": "Binh chủng Hóa học tham gia xử lý sự cố ô nhiễm môi trường khu vực hủy pháo tại Bình Đà, Thanh Oai, Hà Tây vào năm nào?",
+            "options": ["Năm 1964", "Năm 1965", "Năm 1966"],
+            "answer": 0
+          },
+          {
+            "question": "Tiểu đoàn Hóa học thứ hai với phiên hiệu 902 được thành lập vào ngày tháng năm nào?",
+            "options": ["30/4/1967", "30/1/1962", "30/1/1965"],
+            "answer": 1
+          },
+          {
+            "question": "Năm bao nhiêu Bộ ra quyết định xây dựng và phát triển các phân đội Hóa học quân khu, sư đoàn đã lần lượt ra đời?",
+            "options": ["Năm 1959", "Năm 1965", "Năm 1972"],
+            "answer": 0
+          },
+          {
+            "question": "Ngày 17 tháng 4 năm 1973, Chủ tịch nước Việt Nam Dân chủ Cộng hòa ký sắc lệnh số 28/LCT thưởng cho mấy đơn vị thuộc Cục Hóa học?",
+            "options": ["06 đơn vị", "07 đơn vị", "08 đơn vị"],
+            "answer": 0
+          },
+          {
+            "question": "Binh chủng Hóa học được tặng Huân chương Độc lập Hạng Nhất vào năm nào?",
+            "options": ["Năm 2003", "Năm 2006", "Năm 2007"],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Bộ đề 5",
+        "questions": [
+          {
+            "question": "Đồng chí Giang Lệ Bồng đã dũng hy sinh trong trận thả khói bảo vệ Cầu Đuống vào ngày, tháng, năm nào?",
+            "options": ["30/7/1972", "29/8/1972", "17/7/1972"],
+            "answer": 0
+          },
+          {
+            "question": "Tiểu đoàn hoá học trực thuộc Trường Sĩ quan Lục quân 1 lấy phiên hiệu là Tiểu đoàn 6 được thành lập ngày tháng năm nào?",
+            "options": ["14/9/1958", "19/4/1958", "19/4/1959"],
+            "answer": 1
+          },
+          {
+            "question": "Cơ quan tiền phương Bộ Tư lệnh Hoá học tại phía Nam được tổ chức vào thời gian nào?",
+            "options": ["9/1978", "9/1977", "9/1976"],
+            "answer": 1
+          },
+          {
+            "question": "Nghị định số 81/2019/NĐ-CP ngày ngày 11 tháng 11 năm 2019 của Chính phủ về nhiệm vụ gì?",
+            "options": [
+              "Về phòng chống phổ biến vũ khí sinh học",
+              "Về phòng chống phổ biến vũ khí hạt nhân",
+              "Về phòng chống phổ biến vũ khí huỷ diệt hàng loạt"
+            ],
+            "answer": 2
+          },
+          {
+            "question": "Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCES) được thành lập ngày, tháng, năm nào?",
+            "options": ["21/6/2019", "21/7/2020", "27/1/2019"],
+            "answer": 0
+          },
+          {
+            "question": "Trung tâm hành động quốc gia khắc phục hậu quả chất độc hóa học và môi trường (NACCES) có mấy nhiệm vụ?",
+            "options": ["04 nhiệm vụ", "05 nhiệm vụ", "06 nhiệm vụ"],
+            "answer": 1
+          },
+          {
+            "question": "Binh chủng Hóa học được trao tặng Huân hương Hồ Chí minh vào năm nào?",
+            "options": [
+              "02 huân chương Hồ Chí Minh",
+              "03 huân chương Hồ Chí Minh",
+              "04 huân chương Hồ Chí Minh"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Những đơn vị nào trực thuộc Binh chủng Hóa học được phong tặng Danh hiệu Anh hùng LLVT trong kháng chiến chống Mỹ, cứu nước?",
+            "options": [
+              "Tiểu đoàn 902, Kho K63",
+              "Tiểu đoàn 901, Kho X61",
+              "Tiểu đoàn 906, Kh0 K62"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "Kho khí tài 63 được phong tặng Danh hiệu Anh hùng LLVT nhân dân thời kỳ đổi mới năm nào?",
+            "options": ["Năm 2012", "Năm 2013", "Năm 2014"],
+            "answer": 0
+          },
+          {
+            "question": "Tổ chức các trạm đo phông phóng xạ tại các thành phố Hà Nội, Hải Phòng, Đà Nẵng, Thành phố Hồ Chí Minh, ngày, tháng, năm nào?",
+            "options": [
+              "Ngày 11/11/1977",
+              "Ngày 12/10/1978",
+              "Ngày 13/11/1979"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Bộ đội Hóa học xử lý chất độc hóa học tồn lưu sau chiến tranh tại Cù Mông, Bình Định tháng năm nào?",
+            "options": ["7/2001", "7/2002", "7/2004"],
+            "answer": 2
+          },
+          {
+            "question": "Đơn vị Hóa học Quân khu, Quân đoàn, Quân chủng nào được tặng danh diệu Anh hùng lực lượng vũ trang nhân dân thời kỳ đổi mới?",
+            "options": [
+              "Tiểu đoàn phòng hoá Quân khu 1",
+              "Tiểu đoàn phòng hoá Quân khu 3",
+              "Tiểu đoàn phòng hoá Quân khu 4"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Tiểu đoàn Phòng hóa Quân khu 4 được nhận Huân chương Chiến công hạng Nhất vào năm nào?",
+            "options": ["Năm 1975", "Năm 1965", "Năm 1985"],
+            "answer": 1
+          },
+          {
+            "question": "Chiến dịch đầu tiên Bộ đội Hóa học tham gia bảo đảm phòng hóa?",
+            "options": [
+              "Chiến dịch Đồng Xoài",
+              "Chiến dịch Khe Sanh",
+              "Chiến dịch Điện Biên Phủ"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Tiểu đoàn Phòng hóa Quân khu 3 được nhận Huân bảo vệ Tổ quốc hạng Ba vào năm nào?",
+            "options": ["Năm 2005", "Năm 2006", "Năm 2007"],
+            "answer": 1
+          },
+          {
+            "question": "Từ năm 1997 đến nay (năm 2022) Binh chủng Hóa học có bao nhiêu giữ chức vụ Tư lệnh Binh chủng?",
+            "options": ["03 đồng chí", "02 đồng chí", "04 đồng chí"],
+            "answer": 2
+          },
+          {
+            "question": "Từ năm tháng 8/1980 đến tháng 4/2006 Binh chủng Hóa học có bao nhiêu đồng chí giữ chức vụ Phó Tư lệnh về Chính trị?",
+            "options": ["04 đồng chí", "05 đồng chí", "06 đồng chí"],
+            "answer": 0
+          },
+          {
+            "question": "Phân đội màn khói của Tiểu đoàn 902, Cục Hóa học gồm 13 đồng chí và 13 công nhân Nhà máy cầu gỗ cầu Đuống ngày tháng năm nào?",
+            "options": [
+              "Từ 25/5 đến 29/7/1972",
+              "Từ 25/4 đến 29/7/1972",
+              "Từ 25/3 đến 29/7/1972"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Theo Quyết định số 213/QĐ-TM ngày 21/9/1976 Cơ quan Bộ Tư lệnh Hóa học gồm có mấy phòng, ban?",
+            "options": ["6 phòng, 3 bạn", "2 phòng, 2 ban", "5 phòng, 1 ban"],
+            "answer": 2
+          },
+          {
+            "question": "Trong thời ký chiến tranh phá hoại lần thứ hai của Đế quốc Mỹ (1972), Bộ đội Hóa học đã có những chiến công xuất sắc trong bảo vệ các mục tiêu nào?",
+            "options": [
+              "Nhà máy thuỷ điện Thác Bà, Cầu Trà Vườn, Cầu Đa Phúc, Cầu Kì Lừa, Trạm biến thế Ba lA, Bông Đỏ, Nhà máy điện Việt Trì",
+              "Nhà máy thuỷ điện Hòa Bình, Cầu Trà Vườn, Cầu Đa Phúc, Cầu Kì Lừa, Trạm biến thế Ba lA, Bông Đỏ",
+              "Nhà máy điện Yên Phụ, Cầu Long Biên, Trạm biến thế Ba 1A"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "Binh chủng Hóa học được tặng Huân chương Độc lập Hạng Nhất vào năm nào?",
+            "options": ["Năm 2003", "Năm 2004", "Năm 2006"],
+            "answer": 0
+          },
+          {
+            "question": "Ngày 17 tháng 4 năm 1973, Chủ tịch nước Việt Nam Dân chủ Cộng hòa ký sắc lệnh số 28/LCT thưởng cho mấy đơn vị thuộc Cục Hóa học?",
+            "options": ["4 đơn vị", "5 đơn vị", "6 đơn vị"],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  }
+]
